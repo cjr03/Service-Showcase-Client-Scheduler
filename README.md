@@ -61,7 +61,7 @@ flowchart TD
 ## Getting Started
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/her-beauty-demo.git
+git clone https://github.com/cjr03/Service-Showcase-Client-Scheduler.git
 ```
 2. Open Demo.xcodeproj in Xcode.
 3. Build and run the project on iOS Simulator or a device.
