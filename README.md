@@ -9,7 +9,7 @@
 
 - [Features](#Features)
 - [App Flow](#App-Flow)
-- [Architecture & Code Highlights](#Architecture-&-Code-Highlights)
+- [Architecture & Code Highlights](#Architecture--Code-Highlights)
 - [Getting Started](#Getting-Started)
 - [Folder Structure](#Folder-Structure)
 
