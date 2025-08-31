@@ -20,15 +20,27 @@
 - **Authentication Flow**
   - Login and Sign Up
   - Gender verification (app is designed for female clients)
+  
+![Onboarding Flow](Demo/docs/sign_up.gif)
+
 - **Service Listings**
   - Browse available services with pricing and duration
   - Detailed service description
+
+![Services List](Demo/docs/service.png)
+  
 - **Appointment Booking**
   - Select service and preferred date/time
   - View upcoming appointments
+ 
+![Booking Flow GIF](Demo/docs/schedule.gif)
+
 - **Account Management**
   - View user info
   - Logout functionality
+ 
+![Account View](Demo/docs/account.png)
+
 - **Demo-only Backend**
   - Mocked authentication and appointment data
 
@@ -88,6 +100,9 @@ Demo/
 │  ├─ WelcomeView.swift
 │  ├─ Assets.xcassets
 │  └─ Preview Content
-├─ DemoTests
-├─ DemoUITests
+└─ docs/               
+   ├─ account.png
+   ├─ service.png
+   ├─ schedule.gif
+   └─ sign_up.gif
 ```
