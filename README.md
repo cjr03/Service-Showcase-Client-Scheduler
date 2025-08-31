@@ -21,11 +21,8 @@
   - Login and Sign Up
   - Gender verification (app is designed for female clients)
 
-```html
-<video width="300" autoplay loop muted>
-  <source src="Demo/docs/sign_up.mp4" type="video/mp4">
-</video>
-```
+<img src="Demo/docs/sign_up.gif" width="300px">
+
 
 - **Service Listings**
   - Browse available services with pricing and duration
@@ -37,11 +34,7 @@
   - Select service and preferred date/time
   - View upcoming appointments
 
- ```html
-<video width="300" autoplay loop muted>
-  <source src="Demo/docs/schedule.mp4" type="video/mp4">
-</video>
-```
+<img src="Demo/docs/schedule.gif" width="300px">
 
 - **Account Management**
   - View user info
