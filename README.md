@@ -21,7 +21,7 @@
   - Login and Sign Up
   - Gender verification (app is designed for female clients)
   
-![Onboarding Flow](Demo/docs/sign_up.gif) | ![Services List](Demo/docs/service.png) | ![Booking Flow GIF](Demo/docs/schedule.gif)
+![Onboarding Flow](Demo/docs/sign_up.gif)
 
 - **Service Listings**
   - Browse available services with pricing and duration
@@ -39,7 +39,7 @@
   - View user info
   - Logout functionality
  
-![Account View](Demo/docs/acctmgmt.png)
+![Account View](Demo/docs/account.png)
 
 - **Demo-only Backend**
   - Mocked authentication and appointment data
