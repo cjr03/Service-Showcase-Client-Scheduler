@@ -21,7 +21,7 @@
   - Login and Sign Up
   - Gender verification (app is designed for female clients)
   
-![Onboarding Flow](Demo/docs/sign_up.gif)
+![Onboarding Flow](Demo/docs/sign_up.gif) | ![Services List](Demo/docs/service.png) | ![Booking Flow GIF](Demo/docs/schedule.gif)
 
 - **Service Listings**
   - Browse available services with pricing and duration
