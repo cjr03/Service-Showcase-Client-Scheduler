@@ -27,7 +27,7 @@
   - Browse available services with pricing and duration
   - Detailed service description
 
-![Services List](Demo/docs/service.png)
+![Services List](Demo/docs/account.png)
   
 - **Appointment Booking**
   - Select service and preferred date/time
@@ -39,7 +39,7 @@
   - View user info
   - Logout functionality
  
-![Account View](Demo/docs/account.png)
+![Account View](Demo/docs/service.png)
 
 - **Demo-only Backend**
   - Mocked authentication and appointment data
