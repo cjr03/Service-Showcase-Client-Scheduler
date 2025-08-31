@@ -39,7 +39,7 @@
   - View user info
   - Logout functionality
  
-![Account View](Demo/docs/accountmgmt.png)
+![Account View](Demo/docs/acctmgmt.png)
 
 - **Demo-only Backend**
   - Mocked authentication and appointment data
