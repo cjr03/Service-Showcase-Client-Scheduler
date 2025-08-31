@@ -21,26 +21,26 @@
   - Login and Sign Up
   - Gender verification (app is designed for female clients)
 
-<img src="Demo/docs/sign_up.gif" width="300px">
+<img src="ServiceShowcaseClientScheduler/docs/sign_up.gif" width="300px">
 
 
 - **Service Listings**
   - Browse available services with pricing and duration
   - Detailed service description
 
-![Services List](Demo/docs/service.png)
+![Services List](ServiceShowcaseClientScheduler/docs/service.png)
   
 - **Appointment Booking**
   - Select service and preferred date/time
   - View upcoming appointments
 
-<img src="Demo/docs/schedule.gif" width="300px">
+<img src="ServiceShowcaseClientScheduler/docs/schedule.gif" width="300px">
 
 - **Account Management**
   - View user info
   - Logout functionality
  
-![Account View](Demo/docs/account.png)
+![Account View](ServiceShowcaseClientScheduler/docs/account.png)
 
 - **Demo-only Backend**
   - Mocked authentication and appointment data
@@ -84,9 +84,9 @@ git clone https://github.com/cjr03/Service-Showcase-Client-Scheduler.git
 
 ## Folder Structure
 ```plaintext
-Demo/
-├─ Demo.xcodeproj
-├─ Demo/               
+ServiceShowcaseClientScheduler/
+├─ ServiceShowcaseClientScheduler.xcodeproj
+├─ ServiceShowcaseClientScheduler/               
 │  ├─ AccountView.swift
 │  ├─ AuthManager.swift
 │  ├─ AppointmentManager.swift
